@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="realizar formulario covid" tests="2" skipped="0" failures="0" errors="0" timestamp="2020-09-17T19:47:23" hostname="DESKTOP-7966VVL" time="44.43">
+  <properties/>
+  <testcase name="llenar campos requeridos y enviar formulario" classname="realizar formulario covid" time="25.907"/>
+  <testcase name="llenar campos requeridos y enviar formulario" classname="realizar formulario covid" time="18.523"/>
+  <system-out><![CDATA[Feature from file:///C:/Users/Tomas.Estrada/Documents/Tomas/arquetipo_web/src/test/resources/features/fill_covid_form.feature
+Feature from file:///C:/Users/Tomas.Estrada/Documents/Tomas/arquetipo_web/src/test/resources/features/fill_covid_form.feature
+]]></system-out>
+  <system-err><![CDATA[sep 17, 2020 2:47:25 PM org.openqa.selenium.remote.DesiredCapabilities chrome
+INFORMACIÓN: Using `new ChromeOptions()` is preferred to `DesiredCapabilities.chrome()`
+Starting ChromeDriver 85.0.4183.83 (94abc2237ae0c9a4cb5f035431c8adfb94324633-refs/branch-heads/4183@{#1658}) on port 7853
+Only local connections are allowed.
+Please see https://chromedriver.chromium.org/security-considerations for suggestions on keeping ChromeDriver safe.
+ChromeDriver was started successfully.
+sep 17, 2020 2:47:31 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFORMACIÓN: Detected dialect: W3C
+sep 17, 2020 2:47:49 PM org.openqa.selenium.remote.DesiredCapabilities chrome
+INFORMACIÓN: Using `new ChromeOptions()` is preferred to `DesiredCapabilities.chrome()`
+Starting ChromeDriver 85.0.4183.83 (94abc2237ae0c9a4cb5f035431c8adfb94324633-refs/branch-heads/4183@{#1658}) on port 33664
+Only local connections are allowed.
+Please see https://chromedriver.chromium.org/security-considerations for suggestions on keeping ChromeDriver safe.
+ChromeDriver was started successfully.
+sep 17, 2020 2:47:53 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFORMACIÓN: Detected dialect: W3C
+]]></system-err>
+</testsuite>

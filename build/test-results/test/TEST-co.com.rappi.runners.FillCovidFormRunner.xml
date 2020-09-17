@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="co.com.rappi.runners.FillCovidFormRunner" tests="0" skipped="0" failures="0" errors="0" timestamp="1970-01-01T00:00:00" hostname="DESKTOP-7966VVL" time="0.0">
+  <properties/>
+  <system-out><![CDATA[Feature from file:///C:/Users/Tomas.Estrada/Documents/Tomas/arquetipo_web/src/test/resources/features/fill_covid_form.feature
+
+2 Scenarios (?[32m2 passed?[0m)
+10 Steps (?[32m10 passed?[0m)
+0m45,008s
+
+
+]]></system-out>
+  <system-err><![CDATA[log4j:WARN No appenders could be found for logger (io.cucumber.junit.CucumberSerenityRunner).
+log4j:WARN Please initialize the log4j system properly.
+log4j:WARN See http://logging.apache.org/log4j/1.2/faq.html#noconfig for more info.
+]]></system-err>
+</testsuite>

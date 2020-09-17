@@ -1,0 +1,631 @@
+<html dir="ltr" lang="es-ES"><head>
+        <meta name="google-site-verification" content="P51tzqsc7uSDkqRtKq2moIOUP_EOXC_P9QjGl6S_8Po">
+        <meta content="ie=edge" http-equiv="x-ua-compatible">
+        <meta content="Microsoft SharePoint" name="GENERATOR">
+        <meta content="text/html; charset=utf-8" http-equiv="Content-type">
+        <meta content="0" http-equiv="Expires">
+        <!--<meta content="width=device-width, initial-scale=1, maximum-scale=1, minimum-scale=1" name="viewport" /> -->
+        <meta name="viewport" content="height=device-height, 
+                      width=device-width, initial-scale=1.0, 
+                      minimum-scale=1.0, maximum-scale=1.0, 
+                      user-scalable=no, target-densitydpi=device-dpi">
+        <meta http-equiv="Cache-Control" content="no-cache, no-store, must-revalidate">
+		<meta http-equiv="Pragma" content="no-cache">
+		<meta http-equiv="Expires" content="0">
+        
+        <link href="/images/favicon.ico" rel="shortcut icon" type="image/x-icon">
+        
+        <title>
+	
+	Encuesta de síntomas
+
+</title>
+        
+
+	    <!-- CSS -->
+		<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css">
+		<link rel="stylesheet" href="https://unpkg.com/formiojs@latest/dist/formio.full.min.css">
+		<link rel="stylesheet" href="https://www.segurossura.com.co/covid-19/css/diagnosis/diagnosis_formio.css">
+    	<style type="text/css">
+		     .ms-webpartPage-root {
+		         border-spacing: 0px !important;
+		     }
+		       .ms-webpartzone-cell {
+		         margin: 0px !important;
+		     }
+		     .error{
+				color:red;
+			 }
+			 
+			 .principal{
+	    		font-family: "Barlow", sans-serif;
+			    font-size: 18px;
+			    text-decoration: none;
+			    line-height: 20px;
+			    font-weight: 500;
+			}
+			
+						.principal::hover{
+				text-decoration:none
+			}
+						.principal::visited{
+				text-decoration:none
+			}
+
+		</style>     
+        
+        
+
+        <!---->
+
+        <!-- JS -->
+        <script type="text/javascript" async="" src="https://www.google-analytics.com/gtm/js?id=OPT-KJFTMX8&amp;t=gtm4&amp;cid=2046806909.1600371711"></script><script src="https://connect.facebook.net/signals/config/953813418150877?v=2.9.24&amp;r=stable" async=""></script><script src="https://connect.facebook.net/signals/config/419919152172587?v=2.9.24&amp;r=stable" async=""></script><script src="https://connect.facebook.net/signals/config/2345460905498024?v=2.9.24&amp;r=stable" async=""></script><script async="" src="https://connect.facebook.net/en_US/fbevents.js"></script><script src="https://s.yimg.com/wi/ytc.js" async=""></script><script type="text/javascript" async="" src="https://us-sonar.sociomantic.com/js/2010-07-01/adpan/sura-co"></script><script type="text/javascript" async="" src="https://static.hotjar.com/c/hotjar-1310980.js?sv=7"></script><script type="text/javascript" async="" src="//www.googleadservices.com/pagead/conversion_async.js"></script><script type="text/javascript" async="" src="https://www.google-analytics.com/analytics.js"></script><script type="text/javascript" async="" src="https://www.google-analytics.com/analytics.js"></script><script async="" src="https://www.googletagmanager.com/gtm.js?id=GTM-T5CNPLP"></script><script type="text/javascript" async="" src="https://www.gstatic.com/recaptcha/releases/6TWYOsKNtRFaLeFqv5xN42-l/recaptcha__es.js"></script><script src="https://code.jquery.com/jquery-3.2.1.min.js"></script>
+	    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.min.js"></script>
+	    <script src="https://kit.fontawesome.com/eae442b6bc.js" crossorigin="anonymous"></script><link href="https://kit-pro.fontawesome.com/releases/latest/css/pro-v4-shims.min.css" media="all" rel="stylesheet"><link href="https://kit-pro.fontawesome.com/releases/latest/css/pro-v4-font-face.min.css" media="all" rel="stylesheet"><link href="https://kit-pro.fontawesome.com/releases/latest/css/pro.min.css" media="all" rel="stylesheet">
+		<script src="https://unpkg.com/formiojs@latest/dist/formio.full.min.js"></script>
+		 <script src="https://www.google.com/recaptcha/api.js"></script>
+		
+        <link type="text/xml" rel="alternate" href="/covid-19/encuestas/_vti_bin/spsdisco.aspx">
+        
+            
+	<meta name="description" content="Continuidad de la operación Con la siguiente encuesta podrás revisar diariamente los síntomas que puedan presentar tus trabajadores, recuérdales que deben diligenciarla todos los días antes de salir de casa">
+	<meta name="robots" content="noindex">
+	<meta property="og:title" content="Encuesta de Síntomas">
+	<meta property="og:description" content="">
+	<meta property="og:image" content="https://www.segurossura.com.co/images/logo-seguros-sura.png">
+	
+	
+
+            <link rel="canonical" href="https://www.segurossura.com.co:443/covid-19/encuestas/paginas/sintomas.aspx?nitEmpresa=890916883&amp;sector=VEVNUE9SQUxFUw==&amp;idEmpresa=ODkwOTE2ODgz&amp;mail=juan.paniagua@manpower.com.co">
+            
+        
+        
+        <script src="https://googleads.g.doubleclick.net/pagead/viewthroughconversion/814904953/?random=1600371711567&amp;cv=9&amp;fst=1600371711567&amp;num=1&amp;guid=ON&amp;resp=GooglemKTybQhCsO&amp;u_h=768&amp;u_w=1366&amp;u_ah=728&amp;u_aw=1366&amp;u_cd=24&amp;u_his=2&amp;u_tz=-300&amp;u_java=false&amp;u_nplug=3&amp;u_nmime=4&amp;gtm=2wg990&amp;sendb=1&amp;ig=1&amp;frm=0&amp;url=https%3A%2F%2Fwww.segurossura.com.co%2Fcovid-19%2Fencuestas%2Fpaginas%2Fsintomas.aspx%3FnitEmpresa%3D890916883%26sector%3DVEVNUE9SQUxFUw%3D%3D%26idEmpresa%3DODkwOTE2ODgz%26mail%3Djuan.paniagua%40manpower.com.co&amp;tiba=Encuesta%20de%20s%C3%ADntomas&amp;hn=www.googleadservices.com&amp;async=1&amp;rfmt=3&amp;fmt=4"></script></head><body onhashchange="if (typeof(_spBodyOnHashChange) != 'undefined') _spBodyOnHashChange();"><span id="DeltaSPWebPartManager">
+            
+        </span>
+
+        <!-- Google Tag Manager -->
+        <script type="text/javascript">
+
+            (function (w, d, s, l, i) {
+                w[l] = w[l] || []; w[l].push({
+                    'gtm.start':
+                        new Date().getTime(), event: 'gtm.js'
+                }); var f = d.getElementsByTagName(s)[0],
+                    j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : ''; j.async = true; j.src =
+                        'https://www.googletagmanager.com/gtm.js?id=' + i + dl; f.parentNode.insertBefore(j, f);
+            })(window, document, 'script', 'dataLayer', 'GTM-T5CNPLP');
+        </script>
+
+        <!-- Global site tag (gtag.js) - Google Analytics -->
+        <script type="text/javascript" src="https://www.googletagmanager.com/gtag/js?id=UA-92878313-1" async=""></script>
+        <script type="text/javascript">
+            window.dataLayer = window.dataLayer || [];
+            function gtag() { dataLayer.push(arguments); }
+            gtag('js', new Date());
+        </script>
+        
+        
+        <!--Chat competitividad de empresas-->
+        <!--<script defer type="text/javascript" src="/covid-19/script/vendor/inbenta/conf/inbenta-conf.js"></script>
+		<script defer type="text/javascript" src="/covid-19/css/vendor/inbenta/assets/js/custome.js"></script>-->		
+		<!--Chat competitividad de empresas-->
+
+
+        <script type="text/javascript">
+            // Datalayer menú utilitario
+            function dataLayerMenuLat(accion, etiqueta) {
+                dataLayer.push({
+                    'accion': accion,
+                    'event': 'menu-latam-segurossura-col',
+                    'etiqueta': etiqueta,
+                });
+            }
+        </script>
+       
+    
+
+    
+        <!-- Google Tag Manager (noscript) -->
+
+        <noscript>
+            <iframe src="https://www.googletagmanager.com/ns.html?id=GTM-T5CNPLP" height="0" width="0"
+                style="display:none;visibility:hidden">
+            </iframe>
+        </noscript>
+
+        <!-- End Google Tag Manager (noscript) -->
+
+
+        <!-- UserVoice -->
+        <!--a class="ico-contacUs ng-scope" href="#" id="contact_us">
+        </a-->
+        <!-- UserVoice -->
+        
+        <div id="imgPrefetch" style="display:none">
+<img src="/_layouts/15/images/spcommon.png?rev=23">
+</div>
+
+        <form method="post" action="./sintomas.aspx?nitEmpresa=890916883&amp;sector=VEVNUE9SQUxFUw%3d%3d&amp;idEmpresa=ODkwOTE2ODgz&amp;mail=juan.paniagua%40manpower.com.co" onsubmit="javascript:return WebForm_OnSubmit();" id="aspnetForm" novalidate="">
+<div class="aspNetHidden">
+<input type="hidden" name="_wpcmWpid" id="_wpcmWpid" value="">
+<input type="hidden" name="wpcmVal" id="wpcmVal" value="">
+<input type="hidden" name="MSOWebPartPage_PostbackSource" id="MSOWebPartPage_PostbackSource" value="">
+<input type="hidden" name="MSOTlPn_SelectedWpId" id="MSOTlPn_SelectedWpId" value="">
+<input type="hidden" name="MSOTlPn_View" id="MSOTlPn_View" value="0">
+<input type="hidden" name="MSOTlPn_ShowSettings" id="MSOTlPn_ShowSettings" value="False">
+<input type="hidden" name="MSOGallery_SelectedLibrary" id="MSOGallery_SelectedLibrary" value="">
+<input type="hidden" name="MSOGallery_FilterString" id="MSOGallery_FilterString" value="">
+<input type="hidden" name="MSOTlPn_Button" id="MSOTlPn_Button" value="none">
+<input type="hidden" name="__EVENTTARGET" id="__EVENTTARGET" value="">
+<input type="hidden" name="__EVENTARGUMENT" id="__EVENTARGUMENT" value="">
+<input type="hidden" name="__REQUESTDIGEST" id="__REQUESTDIGEST" value="0xF46DCF8A44D9F42185519A758B9A9341835C123015C138D784F2957A3DA54ADF72A784C565CE61422F5ED001AB9DFCCDDDC6074AA343000E89658D3B9348CDDF,17 Sep 2020 19:41:47 -0000">
+<input type="hidden" name="MSOSPWebPartManager_DisplayModeName" id="MSOSPWebPartManager_DisplayModeName" value="Browse">
+<input type="hidden" name="MSOSPWebPartManager_ExitingDesignMode" id="MSOSPWebPartManager_ExitingDesignMode" value="false">
+<input type="hidden" name="MSOWebPartPage_Shared" id="MSOWebPartPage_Shared" value="">
+<input type="hidden" name="MSOLayout_LayoutChanges" id="MSOLayout_LayoutChanges" value="">
+<input type="hidden" name="MSOLayout_InDesignMode" id="MSOLayout_InDesignMode" value="">
+<input type="hidden" name="_wpSelected" id="_wpSelected" value="">
+<input type="hidden" name="_wzSelected" id="_wzSelected" value="">
+<input type="hidden" name="MSOSPWebPartManager_OldDisplayModeName" id="MSOSPWebPartManager_OldDisplayModeName" value="Browse">
+<input type="hidden" name="MSOSPWebPartManager_StartWebPartEditingName" id="MSOSPWebPartManager_StartWebPartEditingName" value="false">
+<input type="hidden" name="MSOSPWebPartManager_EndWebPartEditing" id="MSOSPWebPartManager_EndWebPartEditing" value="false">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUBMA9kFgJmD2QWAgICD2QWCAIDD2QWAmYPZBYCAgEPFgIeE1ByZXZpb3VzQ29udHJvbE1vZGULKYgBTWljcm9zb2Z0LlNoYXJlUG9pbnQuV2ViQ29udHJvbHMuU1BDb250cm9sTW9kZSwgTWljcm9zb2Z0LlNoYXJlUG9pbnQsIFZlcnNpb249MTUuMC4wLjAsIEN1bHR1cmU9bmV1dHJhbCwgUHVibGljS2V5VG9rZW49NzFlOWJjZTExMWU5NDI5YwFkAg8PZBYCAgMPZBYCZg9kFgJmDzwrAAYAZAITD2QWAgIBD2QWAgUmZ181YjhjZGEzN181NDFjXzQzYjFfYWY0Zl82ZjA1NTYyYjhlNzEPZBYEZg8WAh4HVmlzaWJsZWhkAgEPFgIfAWhkAhkPZBYCAgUPZBYCAgIPZBYCAgUPZBYCAgMPFgIfAWgWAmYPZBYEAgIPZBYGAgEPFgIfAWhkAgMPFgIfAWhkAgUPFgIfAWhkAgMPDxYCHglBY2Nlc3NLZXkFAS9kZGRdd8VmE6eJecsmjLvv88QvdknKPnRmP2nZDiMCtFXQBg==">
+</div>
+
+<script type="text/javascript">
+//<![CDATA[
+var theForm = document.forms['aspnetForm'];
+if (!theForm) {
+    theForm = document.aspnetForm;
+}
+function __doPostBack(eventTarget, eventArgument) {
+    if (!theForm.onsubmit || (theForm.onsubmit() != false)) {
+        theForm.__EVENTTARGET.value = eventTarget;
+        theForm.__EVENTARGUMENT.value = eventArgument;
+        theForm.submit();
+    }
+}
+//]]>
+</script>
+
+
+<script src="/WebResource.axd?d=udsNxaCfxTGwNyD6qoKrIQmJOr41_CKrq_q7WGnTBZZIrFY14jQMp6JD6nvCSX2pstxEqgPrN04kPL_a5V8sUrSEESrwpic2RqnvSlNFUSQ1&amp;t=636354726046607314" type="text/javascript"></script>
+
+
+<script type="text/javascript">
+//<![CDATA[
+var MSOWebPartPageFormName = 'aspnetForm';
+var g_presenceEnabled = true;
+var g_wsaEnabled = false;
+var g_wsaQoSEnabled = false;
+var g_wsaQoSDataPoints = [];
+var g_wsaLCID = 3082;
+var g_wsaListTemplateId = 850;
+var g_wsaSiteTemplateId = 'CMSPUBLISHING#0';
+var _fV4UI=true;var _spPageContextInfo = {webServerRelativeUrl: "\u002fcovid-19\u002fencuestas", webAbsoluteUrl: "https:\u002f\u002fwww.segurossura.com.co\u002fcovid-19\u002fencuestas", siteAbsoluteUrl: "https:\u002f\u002fwww.segurossura.com.co", serverRequestPath: "\u002fcovid-19\u002fencuestas\u002fpaginas\u002fsintomas.aspx", layoutsUrl: "_layouts\u002f15", webTitle: "Encuestas", webTemplate: "39", tenantAppVersion: "0", isAppWeb: false, webLogoUrl: "_layouts\u002f15\u002fimages\u002fsiteicon.png", webLanguage: 3082, currentLanguage: 3082, currentUICultureName: "es-ES", currentCultureName: "es-ES", clientServerTimeDelta: new Date("2020-09-17T19:41:47.8193712Z") - new Date(), siteClientTag: "2095$$15.0.4745.1000", crossDomainPhotosEnabled:false, webUIVersion:15, webPermMasks:{High:16,Low:196673},pageListId:"{63d61e42-3385-4c81-9dae-db31053b95a1}",pageItemId:2, pagePersonalizationScope:1, alertsEnabled:false, siteServerRelativeUrl: "\u002f", allowSilverlightPrompt:'True'};var L_Menu_BaseUrl="/covid-19/encuestas";
+var L_Menu_LCID="3082";
+var L_Menu_SiteTheme="null";
+document.onreadystatechange=fnRemoveAllStatus; function fnRemoveAllStatus(){removeAllStatus(true)};var _spWebPartComponents = new Object();//]]>
+</script>
+
+<script src="/_layouts/15/blank.js?rev=ZaOXZEobVwykPO9g8hq%2F8A%3D%3D" type="text/javascript"></script>
+<script type="text/javascript">
+//<![CDATA[
+function WebForm_OnSubmit() {
+UpdateFormDigest('\u002fcovid-19\u002fencuestas', 1440000);if (typeof(_spFormOnSubmitWrapper) != 'undefined') {return _spFormOnSubmitWrapper();} else {return true;};
+return true;
+}
+//]]>
+</script>
+
+<div class="aspNetHidden">
+
+	<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="BAB98CB3">
+</div>
+            <script type="text/javascript">
+//<![CDATA[
+Sys.WebForms.PageRequestManager._initialize('ctl00$ScriptManager', 'aspnetForm', [], [], [], 90, 'ctl00');
+//]]>
+</script>
+
+            <div id="ms-designer-ribbon">
+                <div>
+	<div class="s4-notdlg noindex" id="TurnOnAccessibility" style="display: none"><a class="ms-accessible ms-acc-button" href="#" id="linkTurnOnAcc" onclick="SetIsAccessibilityFeatureEnabled(true);UpdateAccessibilityUI();document.getElementById('linkTurnOffAcc').focus();return false;">Activar el modo de accesibilidad</a></div><div class="s4-notdlg noindex" id="TurnOffAccessibility" style="display: none"><a class="ms-accessible ms-acc-button" href="#" id="linkTurnOffAcc" onclick="SetIsAccessibilityFeatureEnabled(false);UpdateAccessibilityUI();document.getElementById('linkTurnOnAcc').focus();return false;">Desactivar el modo de accesibilidad</a></div>
+</div>
+                <div>
+	
+	<div id="s4-ribbonrow" style="visibility:hidden;display:none"></div>
+
+</div>
+
+
+            </div>
+            <div id="s4-workspace">
+                <div id="s4-bodyContainer">
+                    <header>
+                        <!-- <div class="header fixed-header"> -->
+                        <span id="DeltaPlaceHolderMainHeader">
+                                
+		            
+
+                        </span>
+                    </header>
+                    <!--Header-->
+                    
+                    <!--Content-->
+                    <div data-name="ContentPlaceHolderMain">
+                        <span id="DeltaPlaceHolderMain">
+                            
+			
+    
+    <section>
+	 <div class="main-content">
+ <div class="container">
+			
+
+ <div class="row">
+				
+ <div class="col-md-12">
+ 	<div class="top-row">
+ 		
+						<div class="ms-webpart-zone ms-fullWidth">
+	<div id="MSOZoneCell_WebPartWPQ1" class="s4-wpcell-plain ms-webpartzone-cell ms-webpart-cell-vertical ms-fullWidth ">
+		<div class="ms-webpart-chrome ms-webpart-chrome-vertical ms-webpart-chrome-fullWidth ">
+			<div webpartid="5b8cda37-541c-43b1-af4f-6f05562b8e71" haspers="false" id="WebPartWPQ1" width="100%" class="ms-WPBody " allowdelete="false" style=""><div class="ms-rtestate-field"><script type="text/javascript">
+
+    var url_string =  window.location.href;
+    var nit, idEmpresa, sector, email;
+    
+    var results = new RegExp('[\?&]nitEmpresa=([^&#]*)').exec(url_string);
+    if (results == null)
+           nit = "";    
+    else 
+       nit = decodeURI(results[1]) || 0;    
+
+    results = new RegExp('[\?&]idEmpresa=([^&#]*)').exec(url_string);
+    if (results == null)
+        idEmpresa = "";    
+    else 
+        idEmpresa = decodeURI(results[1]) || 0;
+
+    results = new RegExp('[\?&]sector=([^&#]*)').exec(url_string);
+    if (results == null)
+        sector = "";    
+    else 
+        sector = decodeURI(results[1]) || 0;
+
+    results = new RegExp('[\?&]mail=([^&#]*)').exec(url_string);
+    if (results == null)
+        email = "";    
+    else 
+        email = decodeURI(results[1]) || 0;
+ 
+
+  window.onload = function() {
+    Formio.createForm(document.getElementById('formio'), 'https://suracovid.form.io/encuestasintomas', {
+  buttonSettings: {
+    showCancel: false,
+    showPrevious: false,
+    showNext: false,
+    showSubmit: false
+  },
+  language: 'es',
+    i18n: {
+      'es': {
+         error: 'Por favor solucione los errores antes de continuar',
+      }
+   }   
+}).then(function(form) {
+
+form.submission = {
+    data: {
+      nitEmpresa: nit,
+      idEmpresa: idEmpresa,
+      sector: sector,
+      mail: email
+    }
+  }; 
+
+form.on('change', function(event) {
+
+ 
+
+});
+  form.nosubmit = true;
+  form.on('gotoNextPage', function() {
+    form.nextPage();
+  });
+  form.on('gotoPreviousPage', function() {
+    form.prevPage();
+  });
+  form.nosubmit = false;
+    form.on('submit', function(submission) {
+      console.log(submission);
+      form.nextPage();
+    });
+});
+  };
+</script>
+<div id="formio"><div class="formio-form">
+  <div style="position: relative;">
+    
+    <div ref="wizard-ebtemsw" class="wizard-page">
+      <div ref="component" class="formio-component formio-component-htmlelement formio-component-html text-center formio-component-label-hidden" id="egwyabs">
+  
+  <p ref="html" class=""><label class="QuestionText BorderColor">Información de contacto</label></p>
+
+  <div class="formio-errors invalid-feedback" ref="messageContainer"></div>
+  
+</div>
+<div ref="component" class="form-group has-feedback formio-component formio-component-select formio-component-tipoid_usuario text-center select-text required" id="eqr1zor">
+  
+  
+  <label class="col-form-label  field-required">
+  Tipo de identificación
+  
+</label>
+
+
+
+
+
+<div class="choices form-group formio-choices" data-type="select-one" dir="ltr" tabindex="-1" role="combobox" aria-autocomplete="list" aria-haspopup="true" aria-expanded="false"><div class="form-control ui fluid selection dropdown" tabindex="0"><select placeholder="Selecciona tu tipo de documento" lang="es" class="form-control choices__input" type="text" name="data[tipoid_usuario]" ref="selectContainer" dir="ltr" hidden="" tabindex="-1" data-choice="active"><option value="CEDULA">&lt;span&gt;CEDULA&lt;/span&gt;</option></select><div class="choices__list choices__list--single"><div class="choices__item choices__item--selectable" data-item="" data-id="5" data-value="CEDULA" data-custom-properties="null" aria-selected="true" data-deletable=""><span>CEDULA</span><button type="button" class="choices__button" aria-label="Remove item: 'CEDULA'" data-button="">Remove item</button></div></div></div><div class="choices__list choices__list--dropdown" aria-expanded="false"><input type="text" class="choices__input choices__input--cloned" autocomplete="off" autocapitalize="off" spellcheck="false" role="textbox" aria-autocomplete="list" aria-label="Selecciona tu tipo de documento" placeholder="Type to search"><div class="choices__list" role="listbox"><div id="choices--datatipoid_usuario-72-item-choice-1" class="choices__item choices__item--choice is-selected choices__item--selectable is-highlighted" role="option" data-choice="" data-id="1" data-value="CEDULA" data-select-text="" data-choice-selectable="" aria-selected="true"><span>CEDULA</span></div><div id="choices--datatipoid_usuario-72-item-choice-2" class="choices__item choices__item--choice choices__item--selectable" role="option" data-choice="" data-id="2" data-value="CEDULA EXTRANJERIA" data-select-text="" data-choice-selectable=""><span>CEDULA EXTRANJERIA</span></div><div id="choices--datatipoid_usuario-72-item-choice-3" class="choices__item choices__item--choice choices__item--selectable" role="option" data-choice="" data-id="3" data-value="DIPLOMATICO" data-select-text="" data-choice-selectable=""><span>DIPLOMATICO</span></div><div id="choices--datatipoid_usuario-72-item-choice-4" class="choices__item choices__item--choice choices__item--selectable" role="option" data-choice="" data-id="4" data-value="NIT" data-select-text="" data-choice-selectable=""><span>NIT</span></div><div id="choices--datatipoid_usuario-72-item-choice-5" class="choices__item choices__item--choice choices__item--selectable" role="option" data-choice="" data-id="5" data-value="DOC.IDENT. DE EXTRANJEROS" data-select-text="" data-choice-selectable=""><span>DOC.IDENT. DE EXTRANJEROS</span></div><div id="choices--datatipoid_usuario-72-item-choice-6" class="choices__item choices__item--choice choices__item--selectable" role="option" data-choice="" data-id="6" data-value="IDENT. FISCAL PARA EXT." data-select-text="" data-choice-selectable=""><span>IDENT. FISCAL PARA EXT.</span></div><div id="choices--datatipoid_usuario-72-item-choice-7" class="choices__item choices__item--choice choices__item--selectable" role="option" data-choice="" data-id="7" data-value="NIT PERSONAS NATURALES" data-select-text="" data-choice-selectable=""><span>NIT PERSONAS NATURALES</span></div><div id="choices--datatipoid_usuario-72-item-choice-8" class="choices__item choices__item--choice choices__item--selectable" role="option" data-choice="" data-id="8" data-value="PASAPORTE" data-select-text="" data-choice-selectable=""><span>PASAPORTE</span></div><div id="choices--datatipoid_usuario-72-item-choice-9" class="choices__item choices__item--choice choices__item--selectable" role="option" data-choice="" data-id="9" data-value="REGISTRO CIVIL" data-select-text="" data-choice-selectable=""><span>REGISTRO CIVIL</span></div><div id="choices--datatipoid_usuario-72-item-choice-10" class="choices__item choices__item--choice choices__item--selectable" role="option" data-choice="" data-id="10" data-value="TARJ.IDENTIDAD" data-select-text="" data-choice-selectable=""><span>TARJ.IDENTIDAD</span></div><div id="choices--datatipoid_usuario-72-item-choice-11" class="choices__item choices__item--choice choices__item--selectable" role="option" data-choice="" data-id="11" data-value="PASAPORTE ONU" data-select-text="" data-choice-selectable=""><span>PASAPORTE ONU</span></div><div id="choices--datatipoid_usuario-72-item-choice-12" class="choices__item choices__item--choice choices__item--selectable" role="option" data-choice="" data-id="12" data-value="PERMISO ESPECIAL PERMANENCIA" data-select-text="" data-choice-selectable=""><span>PERMISO ESPECIAL PERMANENCIA</span></div><div id="choices--datatipoid_usuario-72-item-choice-13" class="choices__item choices__item--choice choices__item--selectable" role="option" data-choice="" data-id="13" data-value="SALVOCONDUCTO DE PERMANENCIA" data-select-text="" data-choice-selectable=""><span>SALVOCONDUCTO DE PERMANENCIA</span></div></div></div></div>
+<input tabindex="-1" ref="autocompleteInput" class="formio-select-autocomplete-input" type="text">
+
+
+
+
+
+  <div class="formio-errors invalid-feedback" ref="messageContainer"></div>
+  
+</div>
+<div ref="component" class="form-group has-feedback formio-component formio-component-textfield formio-component-identificacion_usuario text-center required" id="eicd6mk">
+  
+  
+  <label class="col-form-label  field-required">
+  Número de identificación
+  
+</label>
+
+
+
+
+
+<div ref="element">
+          
+
+  
+<input value="" spellcheck="true" lang="es" class="form-control" type="text" name="data[identificacion_usuario]" ref="input">
+
+
+
+
+
+
+
+        </div>
+
+
+
+
+  <div class="formio-errors invalid-feedback" ref="messageContainer"></div>
+  
+</div>
+<div ref="component" class="form-group has-feedback formio-component formio-component-textfield formio-component-nombre_usuario text-center required" id="eie3sok">
+  
+  
+  <label class="col-form-label  field-required">
+  Nombre y apellido
+  
+</label>
+
+
+
+
+
+<div ref="element">
+          
+
+  
+<input value="" spellcheck="true" lang="es" class="form-control" type="text" name="data[nombre_usuario]" ref="input">
+
+
+
+
+
+
+
+        </div>
+
+
+
+
+  <div class="formio-errors invalid-feedback" ref="messageContainer"></div>
+  
+</div>
+<div ref="component" class="form-group has-feedback formio-component formio-component-button formio-component-page1Siguiente primary blue text-center form-group" id="e8sxdhs">
+  
+  
+
+
+
+<button lang="es" class="btn btn-primary btn-md primary blue text-center" type="button" name="data[page1Siguiente]" ref="button">
+
+Siguiente →
+
+
+</button>
+<div ref="buttonMessageContainer">
+  <span ref="buttonMessage" class="help-block"></span>
+</div>
+
+
+
+
+
+  <div class="formio-errors invalid-feedback" ref="messageContainer"></div>
+  
+</div>
+
+
+    </div>
+    <ul id="wizard-ebtemsw-nav" class="list-inline">
+  
+  
+  
+  
+</ul>
+
+  </div>
+</div></div>
+</div><div class="ms-clear"></div></div>
+		</div>
+	</div>
+</div>
+							
+ 	</div>
+ </div>  <!-- columna izquierda -->
+				
+
+ <div class="col-md-3">
+					
+ <div id="sidebar" class="col-left">
+						
+
+						<menu class="ms-hide">
+	<ie:menuitem id="MSOMenu_Help" iconsrc="/_layouts/15/images/HelpIcon.gif" onmenuclick="MSOWebPartPage_SetNewWindowLocation(MenuWebPart.getAttribute('helpLink'), MenuWebPart.getAttribute('helpMode'))" text="Ayuda" type="option" style="display:none">
+
+	</ie:menuitem>
+</menu>
+ </div>  </div>
+				
+
+ <!-- columna derecha -->
+				
+ <div class="col-md-9">
+					
+ <div id="content" class="col-right">
+						
+
+						</div></div></div></div></div></section>	
+<div style="display:none" id="hidZone"></div>
+                        </span>
+                    </div>
+                    <!--Content-->
+                    
+                    <!--Footer-->
+                    <footer> 
+                        <span id="DeltaPlaceHolderMainFooter">
+                            
+
+
+                        </span>
+                    </footer>                                     
+                </div>
+            </div>
+         
+            <div id="DeltaFormDigest">
+	
+                
+					<script type="text/javascript">//<![CDATA[
+        var formDigestElement = document.getElementsByName('__REQUESTDIGEST')[0];
+        if (!((formDigestElement == null) || (formDigestElement.tagName.toLowerCase() != 'input') || (formDigestElement.type.toLowerCase() != 'hidden') ||
+            (formDigestElement.value == null) || (formDigestElement.value.length <= 0)))
+        {
+            formDigestElement.value = '0xF46DCF8A44D9F42185519A758B9A9341835C123015C138D784F2957A3DA54ADF72A784C565CE61422F5ED001AB9DFCCDDDC6074AA343000E89658D3B9348CDDF,17 Sep 2020 19:41:47 -0000';
+            g_updateFormDigestPageLoaded = new Date();
+        }
+        //]]>
+        </script>
+                
+            
+</div>
+        
+
+<script type="text/javascript">
+//<![CDATA[
+var _spFormDigestRefreshInterval = 1440000;window.g_updateFormDigestPageLoaded = new Date(); window.g_updateFormDigestPageLoaded.setDate(window.g_updateFormDigestPageLoaded.getDate() -5);var _fV4UI = true;
+function _RegisterWebPartPageCUI()
+{
+    var initInfo = {editable: false,isEditMode: false,allowWebPartAdder: false,listId: "{63d61e42-3385-4c81-9dae-db31053b95a1}",itemId: 2,recycleBinEnabled: true,enableMinorVersioning: true,enableModeration: false,forceCheckout: true,rootFolderUrl: "\u002fcovid-19\u002fencuestas\u002fPaginas",itemPermissions:{High:16,Low:196673}};
+    SP.Ribbon.WebPartComponent.registerWithPageManager(initInfo);
+    var wpcomp = SP.Ribbon.WebPartComponent.get_instance();
+    var hid;
+    hid = document.getElementById("_wpSelected");
+    if (hid != null)
+    {
+        var wpid = hid.value;
+        if (wpid.length > 0)
+        {
+            var zc = document.getElementById(wpid);
+            if (zc != null)
+                wpcomp.selectWebPart(zc, false);
+        }
+    }
+    hid = document.getElementById("_wzSelected");
+    if (hid != null)
+    {
+        var wzid = hid.value;
+        if (wzid.length > 0)
+        {
+            wpcomp.selectWebPartZone(null, wzid);
+        }
+    }
+};
+function __RegisterWebPartPageCUI() {
+ExecuteOrDelayUntilScriptLoaded(_RegisterWebPartPageCUI, "sp.ribbon.js");}
+_spBodyOnLoadFunctionNames.push("__RegisterWebPartPageCUI");var __wpmExportWarning='This Web Part Page has been personalized. As a result, one or more Web Part properties may contain confidential information. Make sure the properties contain information that is safe for others to read. After exporting this Web Part, view properties in the Web Part description file (.WebPart) by using a text editor such as Microsoft Notepad.';var __wpmCloseProviderWarning='You are about to close this Web Part.  It is currently providing data to other Web Parts, and these connections will be deleted if this Web Part is closed.  To close this Web Part, click OK.  To keep this Web Part, click Cancel.';var __wpmDeleteWarning='You are about to permanently delete this Web Part.  Are you sure you want to do this?  To delete this Web Part, click OK.  To keep this Web Part, click Cancel.';var g_clientIdDeltaPlaceHolderMain = "DeltaPlaceHolderMain";
+var g_clientIdDeltaPlaceHolderUtilityContent = "DeltaPlaceHolderUtilityContent";
+//]]>
+</script>
+</form>
+
+        <span id="DeltaPlaceHolderUtilityContent">
+            
+        </span><iframe height="0" width="0" style="display: none; visibility: hidden;" src="//9614802.fls.doubleclick.net/activityi;src=9614802;type=allpa0;cat=allpa0;ord=4567071343652;gtm=2wg990;auiddc=1809680441.1600371711;u1=https%3A%2F%2Fwww.segurossura.com.co%2Fcovid-19%2Fencuestas%2Fpaginas%2Fsintomas.aspx%3FnitEmpresa%3D890916883%26sector%3DVEVNUE9SQUxFUw%3D%3D%26idEmpresa%3DODkwOTE2ODgz%26mail%3Djuan.paniagua%40manpower.com.co;~oref=https%3A%2F%2Fwww.segurossura.com.co%2Fcovid-19%2Fencuestas%2Fpaginas%2Fsintomas.aspx%3FnitEmpresa%3D890916883%26sector%3DVEVNUE9SQUxFUw%3D%3D%26idEmpresa%3DODkwOTE2ODgz%26mail%3Djuan.paniagua%40manpower.com.co?"></iframe>
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+    
+
+
+<script type="text/javascript" id="">var c_array=document.location.href,c_split=c_array.split("/"),cat1=c_split[4],cat2=c_split[5],cat3=c_split[6],arrCat=[cat1];cat2&&arrCat.push(cat2);cat3&&arrCat.push(cat3);var product={category:arrCat};</script>
+
+<script type="text/javascript" id="">(function(){var a=document.createElement("script"),b=document.getElementsByTagName("script")[0];a.type="text/javascript";a.async=!0;a.src=("https:"==document.location.protocol?"https://":"http://")+"us-sonar.sociomantic.com/js/2010-07-01/adpan/sura-co";b.parentNode.insertBefore(a,b)})();</script><script type="text/javascript" id="">(function(d,a,b,f,e){d[e]=d[e]||[];d[e].push({projectId:"10000",properties:{pixelId:"10062180"}});var c=a.createElement(b);c.src=f;c.async=!0;c.onload=c.onreadystatechange=function(){var a=this.readyState,c=d[e];if(!a||"complete"==a||"loaded"==a)try{var b=YAHOO.ywa.I13N.fireBeacon;d[e]=[];d[e].push=function(a){b([a])};b(c)}catch(g){}};a=a.getElementsByTagName(b)[0];b=a.parentNode;b.insertBefore(c,a)})(window,document,"script","https://s.yimg.com/wi/ytc.js","dotq");</script>
+<script type="text/javascript" id="">!function(b,e,f,g,a,c,d){b.fbq||(a=b.fbq=function(){a.callMethod?a.callMethod.apply(a,arguments):a.queue.push(arguments)},b._fbq||(b._fbq=a),a.push=a,a.loaded=!0,a.version="2.0",a.queue=[],c=e.createElement(f),c.async=!0,c.src=g,d=e.getElementsByTagName(f)[0],d.parentNode.insertBefore(c,d))}(window,document,"script","https://connect.facebook.net/en_US/fbevents.js");fbq("init","2345460905498024");fbq("set","agent","tmgoogletagmanager","2345460905498024");fbq("track","PageView");</script>
+<noscript><img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=2345460905498024&amp;ev=PageView&amp;noscript=1"></noscript>
+
+<script type="text/javascript" id="">!function(b,e,f,g,a,c,d){b.fbq||(a=b.fbq=function(){a.callMethod?a.callMethod.apply(a,arguments):a.queue.push(arguments)},b._fbq||(b._fbq=a),a.push=a,a.loaded=!0,a.version="2.0",a.queue=[],c=e.createElement(f),c.async=!0,c.src=g,d=e.getElementsByTagName(f)[0],d.parentNode.insertBefore(c,d))}(window,document,"script","https://connect.facebook.net/en_US/fbevents.js");fbq("init","419919152172587");fbq("set","agent","tmgoogletagmanager","419919152172587");fbq("track","PageView");</script>
+<noscript><img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=419919152172587&amp;ev=PageView&amp;noscript=1"></noscript>
+
+<script type="text/javascript" id="">!function(b,e,f,g,a,c,d){b.fbq||(a=b.fbq=function(){a.callMethod?a.callMethod.apply(a,arguments):a.queue.push(arguments)},b._fbq||(b._fbq=a),a.push=a,a.loaded=!0,a.version="2.0",a.queue=[],c=e.createElement(f),c.async=!0,c.src=g,d=e.getElementsByTagName(f)[0],d.parentNode.insertBefore(c,d))}(window,document,"script","https://connect.facebook.net/en_US/fbevents.js");fbq("init","953813418150877");fbq("track","PageView");</script>
+<noscript>
+  <img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id={your-pixel-id-goes-here}&amp;ev=PageView&amp;noscript=1">
+</noscript>
+<script type="application/javascript" id="ywa-1600371711616-509442" class="ywa-10000" defer="" src="https://sp.analytics.yahoo.com/sp.pl?a=10000&amp;d=Thu%2C%2017%20Sep%202020%2019%3A41%3A51%20GMT&amp;n=5&amp;b=Encuesta%20de%20s%C3%ADntomas&amp;.yp=10062180&amp;f=https%3A%2F%2Fwww.segurossura.com.co%2Fcovid-19%2Fencuestas%2Fpaginas%2Fsintomas.aspx%3FnitEmpresa%3D890916883%26sector%3DVEVNUE9SQUxFUw%3D%3D%26idEmpresa%3DODkwOTE2ODgz%26mail%3Djuan.paniagua%40manpower.com.co&amp;enc=UTF-8&amp;tagmgr=gtm"></script></body></html>

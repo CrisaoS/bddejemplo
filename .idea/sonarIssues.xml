@@ -1,0 +1,474 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="issues">
+    <option name="index">
+      <map>
+        <entry key="/a.dummy">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="/fragment.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Documents/Proyecto automatizacion qa/bddrappiqart/build.gradle">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Documents/Proyecto automatizacion qa/bddrappiqart/src/main/java/co/com/rappi/definitions/AsignacionOrdenesDefinition.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Documents/Proyecto automatizacion qa/bddrappiqart/src/test/resources/features/ordenes.usando.token/pharmacy_order_no_cashless.feature">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Documents/bddmovilrappirt/serenity.properties">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Documents/bddmovilrappirt/src/main/java/co/com/rappi/definitions/OrderCreationDefinition.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Documents/bddmovilrappirt/src/main/java/co/com/rappi/pages/ActivationPage.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Documents/bddmovilrappirt/src/test/java/co/com/rappi/runners/regression/LoginWithCredentialsRunner.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Documents/bddmovilrappirt/src/test/java/co/com/rappi/runners/regression/StorekeepersPasswordRecoveryRunner.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Documents/bddmovilrappirt/src/test/java/co/com/rappi/runners/tagexecution/menu/principal/DebtNotMeetPromotionsRunner.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Documents/bddmovilrappirt/src/test/java/co/com/rappi/runners/tagexecution/menu/principal/LevelNotFoundPromotionRunner.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Documents/bddmovilrappirt/src/test/resources/features/menu/promotions.feature">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Documents/bddrappirt/src/main/java/co/back/rappi/definitions/orders/OrdeCreationrDefinition.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Documents/bddrappirt/src/main/java/co/back/rappi/services/lupe/LoginLupeService.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Documents/bddrappirt/src/test/java/co/back/rappi/tests/PruebaServicio.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Documents/bddrappirt/src/test/resources/features/ordersflows/ordenes_masivas.feature">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Documents/bddshopperweb/build.gradle">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Documents/bddshopperweb/serenity.properties">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Documents/bddshopperweb/src/main/java/co/com/shopper/tasks/LoginErp.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Documents/bddshopperweb/src/test/java/co/com/shopper/stepdefinitions/GeneralStepDefinition.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Documents/bddshopperweb/src/test/java/co/com/shopper/stepdefinitions/LoginStepDefinition.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Documents/bddshopperweb/src/test/resources/features/slots/create_slots_in_store.feature">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Documents/bddshopperweb/target/site/serenity/flujo_de_inicio_de_sesión_erp_shopper_ingreso_exitoso_a_la_erp_shopper.json">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../Proyecto automatizacion qa/bddrappiqart/src/test/java/co/com/rappi/runners/ordenes/usando/credenciales/OrdenNoCashlessRestauranteRunner.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../Proyecto automatizacion qa/bddrappiqart/src/test/java/co/com/rappi/runners/ordenes/usando/token/OrdenNoCashlessRestauranteRunner.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../Proyecto automatizacion qa/bddrappiqart/src/test/resources/features/ordenes.usando.credenciales/liquor_no_cashless_order.feature">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../Proyecto automatizacion qa/bddrappiqart/src/test/resources/features/ordenes.usando.credenciales/orden_antojos.feature">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../Proyecto automatizacion qa/bddrappiqart/src/test/resources/features/ordenes.usando.credenciales/orden_cashless_express.feature">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../Proyecto automatizacion qa/bddrappiqart/src/test/resources/features/ordenes.usando.credenciales/orden_cashless_restaurante.feature">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../Proyecto automatizacion qa/bddrappiqart/src/test/resources/features/ordenes.usando.credenciales/orden_no_cashless_express.feature">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../Proyecto automatizacion qa/bddrappiqart/src/test/resources/features/ordenes.usando.credenciales/orden_no_cashless_restaurante.feature">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../Proyecto automatizacion qa/bddrappiqart/src/test/resources/features/ordenes.usando.credenciales/orden_rappi_favor.feature">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../Proyecto automatizacion qa/bddrappiqart/src/test/resources/features/ordenes.usando.credenciales/pharmacy_order_no_cashless.feature">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../Proyecto automatizacion qa/bddrappiqart/src/test/resources/features/ordenes.usando.token/orden_no_cashless_restaurante.feature">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/build.gradle">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/serenity.properties">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/settings.gradle">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/co/com/rappi/definitions/CambioDeNivelDefinition.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/co/com/rappi/definitions/CheckboxDemoDefinition.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/co/com/rappi/definitions/CreacionOrdenDefinition.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/co/com/rappi/definitions/HeroKuappDefinitions.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/co/com/rappi/definitions/InformacionRappitenderoDefinition.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/co/com/rappi/definitions/InicioSesionRappiDefinition.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/co/com/rappi/definitions/JavaScriptAlertDefinition.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/co/com/rappi/definitions/SeleniumEasyDefinition.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/co/com/rappi/definitions/SimpleFormDemoDefinition.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/co/com/rappi/definitions/ValidacionSlotsDefinition.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/co/com/rappi/ejemplos/importarDatosPrueba.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/co/com/rappi/models/ModelTemplate.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/co/com/rappi/pages/GeneralPage.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/co/com/rappi/pages/SeleniumJavaScriptAlertPage.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/co/com/rappi/services/CambioDeNivelServices.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/co/com/rappi/services/LoginLupeServices.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/co/com/rappi/services/ServiceTemplete.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/co/com/rappi/services/Test.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/co/com/rappi/steps/CheckboxDemoStep.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/co/com/rappi/steps/JavaScriptAlertStep.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/co/com/rappi/steps/MenuSeleniumEasyStep.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/co/com/rappi/steps/StepTemplate.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/test/java/co/com/rappi/runners/JavaScriptAlertRunner.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/test/java/co/com/rappi/runners/Runner.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/test/java/co/com/rappi/runners/RunnerTemplate.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/test/java/co/com/rappi/runners/SimpleFormDemoRunner.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/test/java/co/com/rappi/runners/ValidacionInformacionRappitenderoRunner.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/test/java/co/com/rappi/runners/ValidacionSlotsRunner.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/test/resources/features/JavaScriptAlerts.feature">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/test/resources/features/cambio_de_nivel_rappitendero.feature">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/test/resources/features/feature_template.feature">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/test/resources/features/javascript_alerts.feature">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../bddmovilrappirt/build.gradle">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../bddmovilrappirt/serenity.properties">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../bddmovilrappirt/src/main/java/co/com/rappi/definitions/MyCardsDefinition.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../bddmovilrappirt/src/main/java/co/com/rappi/definitions/SetupStory.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../bddmovilrappirt/src/test/java/co/com/rappi/hooks/Hooks.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../bddmovilrappirt/src/test/java/co/com/rappi/runners/LoginIncorrectEmailRunner.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../bddmovilrappirt/src/test/java/co/com/rappi/runners/parallel/DeactivationRunner.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../bddmovilrappirt/src/test/java/co/com/rappi/runners/parallel/LogoutSuccessfulRunner.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../bddmovilrappirt/src/test/resources/features/activacion/deactivation.feature">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../bddmovilrappirt/src/test/resources/features/iniciosesion/login_with_credentials.feature">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../bddmovilrappirt/src/test/resources/features/iniciosesion/logout.feature">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../bddmovilrappirt/src/test/resources/features/menu/paysupport/my_cards.feature">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../bddmovilrappirt/src/test/testNG.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../bddmovilrappirt/testNG.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../bddrappirt/build.gradle">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../bddrappirt/src/main/java/co/com/rappi/services/lupe/LoginLupeService.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../formaciones_algoritmos/src/main/java/co/com/rappi/definitions/InformacionRappitenderoDefinition.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../formaciones_algoritmos/src/main/java/co/com/rappi/models/Storekeeper.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../formaciones_algoritmos/src/main/java/co/com/rappi/models/StorekeeperOrderLevel.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../formaciones_algoritmos/src/main/java/co/com/rappi/services/ConsultaInformacionRappitendero.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../formaciones_algoritmos/src/main/java/co/com/rappi/services/InicioSesionService.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../formaciones_back/build.gradle">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../formaciones_mobile/build.gradle">
+          <value>
+            <set />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>

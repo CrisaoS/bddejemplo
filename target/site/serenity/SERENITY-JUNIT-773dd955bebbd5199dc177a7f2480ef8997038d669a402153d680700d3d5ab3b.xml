@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite errors="2" failures="0" name="Probar funcionamiento simple form demo" skipped="0" tests="3" time="64.82" timestamp="2020-09-16 04:45:37"><testcase name="Validar mensaje mostrado en pantalla al ingresarlo en un campo de texto"/><testcase name="Validar la suma de dos valores ingresados en campos de texto"><error message="java.lang.Integer cannot be cast to [C" type="java.lang.ClassCastException">java.lang.Integer cannot be cast to [C</error><system-err>java.lang.Integer cannot be cast to [C&#13;
+co.com.rappi.steps.SimpleFormDemoStep.validarSuma(SimpleFormDemoStep.java:63)&#13;
+co.com.rappi.definitions.SimpleFormDemoDefinition.validarSuma(SimpleFormDemoDefinition.java:41)&#13;
+✽.Se muestra la suma de los valores en pantalla(file:///C:/Users/Tomas.Estrada/Documents/Tomas/arquetipo_web/src/test/resources/features/simple_form_demo.feature:15)&#13;
+</system-err></testcase></testsuite>
